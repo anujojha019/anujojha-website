@@ -1,0 +1,84 @@
+# Anuj Ojha, Ph.D.
+
+**Data Scientist | Machine Learning | Biostatistics | Healthcare Analytics**
+
+<br>
+
+::: {.hero-container}
+
+::: {.hero-left}
+![](images/Anuj Ojha_Headshot picture.jpg){width=250px}
+
+[📄 CV](files/CV.pdf){.btn-primary target="_blank"}  
+[💼 LinkedIn](https://www.linkedin.com/in/anujojha7){.btn-outline target="_blank"}  
+[📚 Google Scholar](https://scholar.google.com/citations?user=Y2gF9nEAAAAJ&hl=en){.btn-outline target="_blank"}
+:::
+
+::: {.hero-right}
+
+## About Me
+
+I am a Data Scientist with over 5 years of experience in data science, biostatistics, and machine learning, specializing in healthcare and biomedical data. During my Ph.D., I worked on developing predictive models and data-driven solutions for cancer research and clinical data analysis.
+
+My work focuses on applying machine learning, statistical modeling, and bioinformatics approaches to analyze large-scale biomedical datasets, including RNA-seq and multi-omics data. I have experience building predictive models, performing survival analysis, and developing reproducible data science workflows using R and Python.
+
+Previously, I worked as a Data Analyst at Florida International University, where I analyzed healthcare and COVID-19 datasets, developed dashboards, and conducted geospatial analytics to support healthcare decision-making.
+
+I am passionate about leveraging data science and machine learning to solve complex healthcare challenges and improve patient outcomes.
+
+:::
+
+:::
+
+
+::: {.section-card}
+
+## Research & Professional Interests
+
+- Machine Learning & Predictive Modeling  
+- Data Science & Statistical Modeling  
+- Biostatistics & Survival Analysis  
+- Healthcare & Clinical Data Analytics  
+- Cancer Genomics & Precision Medicine  
+- RNA-seq & Multi-omics Data Analysis  
+- Bioinformatics & Computational Biology  
+- Deep Learning for Biomedical Data  
+- Natural Language Processing for Healthcare Data  
+- Data Visualization & Scientific Communication  
+- Reproducible Research & Data Pipelines  
+
+:::
+
+<br>
+
+::: {.section-card}
+
+## Technical Expertise
+
+**Programming:**  
+R • Python • SQL • SAS • MATLAB • C  
+
+**Data Science & Machine Learning:**  
+Statistical Modeling • Predictive Modeling • Survival Analysis • Classification • Regression • Clustering • Feature Engineering  
+
+**Biostatistics & Healthcare Analytics:**  
+Clinical Data Analysis • Healthcare Data Analytics • Community Health Data • Survival Analysis • Epidemiological Analysis • Public Health Data Analysis  
+
+**Bioinformatics & Genomics:**  
+RNA-seq Analysis • Differential Gene Expression • Gene Ontology • Pathway Enrichment • Multi-omics Analysis   
+
+**Data Visualization:**  
+Tableau • PowerBI • ggplot2 • matplotlib • seaborn • Excel  
+
+:::
+
+
+
+## Connect with me
+
+[📄 CV](files/CV.pdf){.btn .btn-primary target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/anujojha7){.btn .btn-outline-primary target="_blank"} &nbsp;&nbsp;&nbsp;&nbsp; [📚 Google Scholar](https://scholar.google.com/citations?user=Y2gF9nEAAAAJ&hl=en){.btn .btn-outline-primary target="_blank"}
+
+
+
+
+

@@ -1,0 +1,39 @@
+.hero-container {
+  display: flex;
+  align-items: flex-start;
+  gap: 50px; /* space between photo column and about text */
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.hero-left {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.hero-left .profile-img {
+  border-radius: 50%;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+  margin-bottom: 20px;
+}
+
+.hero-left .btn-primary,
+.hero-left .btn-outline {
+  display: inline-block;
+  margin-bottom: 10px;  /* adds spacing between buttons */
+  padding: 8px 15px;
+  border-radius: 6px;
+  text-decoration: none;
+}
+
+.hero-right {
+  flex: 1;
+  text-align: justify; /* Justify the text */
+  padding-left: 20px;  /* extra padding to push text from photo */
+}
+
+.justify-text {
+  text-align: justify; /* Justify the text */
+}
+

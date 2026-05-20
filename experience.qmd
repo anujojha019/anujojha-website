@@ -1,0 +1,73 @@
+# Professional Experience
+
+### Graduate Research Assistant  
+**University of Toledo, Toledo, OH**  
+*Aug 2022 – Present*
+
+- Developed machine learning and statistical models for cancer survival prediction using RNA-seq and multi-omics datasets  
+- Conducted statistical analysis using R, Python, and SQL to extract insights from large-scale biomedical datasets  
+- Built Cox proportional hazards models and survival prediction models using gene expression data  
+- Performed differential gene expression analysis and pathway enrichment analysis  
+- Applied machine learning algorithms for predictive modeling and classification tasks  
+- Analyzed Next Generation Sequencing (NGS) and RNA-seq datasets for biomarker discovery  
+- Conducted Gene Ontology and pathway enrichment analysis to interpret biological significance  
+- Integrated data from public biomedical databases including NCBI, UCSC, UniProt, and STRING  
+- Developed reproducible data analysis workflows using R and Python  
+- Created data visualizations and statistical summaries for publications and presentations  
+- Collaborated with multidisciplinary teams including biologists, clinicians, and data scientists  
+- Mentored students in data science, machine learning, and statistical modeling techniques  
+- Contributed to manuscript writing, grant proposals, and research publications  
+
+---
+
+### Graduate Teaching Assistant  
+**University of Toledo, Toledo, OH**  
+*Jan 2022 – Aug 2022*
+
+- Assisted in teaching Medical IoT and data-driven healthcare technologies  
+- Supported students in data analysis, programming, and project development  
+- Assisted in grading assignments and evaluating student performance  
+- Provided technical support for data analysis and IoT-based projects  
+- Guided students in research design and data interpretation  
+
+---
+
+### Data Analyst  
+**Florida International University – Herbert Wertheim College of Medicine, Miami, FL**  
+*Nov 2020 – Jan 2022*
+
+- Performed healthcare data analysis using Python, R, SQL, and Excel  
+- Developed statistical reports and dashboards for healthcare quality improvement initiatives  
+- Conducted descriptive and inferential statistical analysis for clinical and community health data  
+- Analyzed COVID-19 datasets to support decision-making and reporting  
+- Built data pipelines and automated reporting workflows  
+- Created data visualizations and dashboards using Tableau and PowerBI  
+- Conducted geospatial data analysis using ArcGIS for healthcare service distribution  
+- Applied statistical modeling techniques to evaluate healthcare outcomes  
+- Worked with HIPAA-compliant healthcare datasets  
+- Collaborated with stakeholders to translate business requirements into analytical solutions  
+- Presented analytical findings to leadership and stakeholders  
+
+---
+
+### Graduate Assistant  
+**Grand Valley State University, Grand Rapids, MI**  
+*Jan 2017 – April 2018*
+
+- Performed data analysis and reporting using R and SAS  
+- Developed tables, dashboards, and reports for academic datasets  
+- Cleaned and processed datasets for analysis and visualization  
+- Supported website development and data integration  
+- Collaborated with faculty on data-driven projects  
+
+---
+
+### Biomedical Engineer  
+**Nepalese Army Institute of Health Sciences, Kathmandu, Nepal**  
+*Jan 2015 – July 2016*
+
+- Analyzed healthcare operational data and generated reports  
+- Developed technical and analytical reports for stakeholders  
+- Conducted data-driven evaluation of equipment performance  
+- Collaborated with cross-functional teams for process improvements  
+- Created documentation and technical reports  

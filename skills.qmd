@@ -1,0 +1,20 @@
+# Skills
+
+## Programming Languages
+
+- R
+- Python
+- SAS
+- SQL
+
+## Bioinformatics
+
+- RNA-seq
+- Gene ontology
+- Survival analysis
+
+## Visualization
+
+- Tableau
+- PowerBI
+- ArcGIS

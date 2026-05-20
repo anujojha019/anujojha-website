@@ -1,0 +1,15 @@
+# Awards & Honors
+
+### 🏆 2025 — Runner-up, Three Minute Thesis (3MT) Competition  
+**University of Toledo**
+
+- Awarded Runner-up in the 3MT competition for research presentation
+- Recognized for effective communication of complex data science research
+
+---
+
+### 🥇 2019 — Hackathon Winner  
+**AT&T & Dakota State University**
+
+- Winner of Data Science Hackathon
+- Developed data-driven solution using machine learning and analytics

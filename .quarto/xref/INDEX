@@ -1,0 +1,38 @@
+{
+  "about.qmd": {
+    "about.html": "19e93a3d"
+  },
+  "index.qmd": {
+    "index.html": "18d3eb98"
+  },
+  "contact.qmd": {
+    "contact.html": "d9ddecbb"
+  },
+  "cv.qmd": {
+    "cv.html": "e32ac345"
+  },
+  "experience.qmd": {
+    "experience.html": "0c124e18"
+  },
+  "publications.qmd": {
+    "publications.html": "faf096ca"
+  },
+  "skills.qmd": {
+    "skills.html": "d722519f"
+  },
+  "education.qmd": {
+    "education.html": "d928d9ca"
+  },
+  "awards.qmd": {
+    "awards.html": "5fd59cc1"
+  },
+  "index - Copy.qmd": {
+    "index - Copy.html": "1c04cb04"
+  },
+  "files/index - Copy.qmd": {
+    "index - Copy.html": "26b91a59"
+  },
+  "files/education.qmd": {
+    "education.html": "6bab6738"
+  }
+}

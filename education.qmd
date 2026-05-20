@@ -1,0 +1,46 @@
+# Education
+
+### Ph.D. Biomedical Engineering
+University of Toledo <br> 
+2022 – Present <br> 
+
+_Dissertation:_ Interpretable Machine Learning Models for Predicting Cancer Survival
+
+---
+
+### Master of Science - Analytics
+Dakota State University <br>
+2019 – 2020 
+
+---
+
+### Master of Science - Biomedical Engineering
+Grand Valley State University <br>
+2016 – 2018 <br>
+
+_Thesis:_ Analysis Of Coherence Between Electromyographic (EMG) Signals to Examine Neural Correlations in Muscular Activation During Standing Balance Tasks: A Pilot Study
+
+---
+
+### Bachelor of Engineering - Biomedical Engineering
+College of Biomedical Engineering and Applied Sciences <br>
+2009 – 2013 <br>
+
+_Thesis:_ Surface modification of biomaterial by coating with Sida acuta extract and the study of the wettability of coated biomaterials
+
+---
+
+### Additional Academic Certificates
+- Biostatistics - co-sponsored by the University of the Incarnate Word, the Association for Prevention Teaching and Research (APTR), and the US Centers for Disease Control and Prevention (CDC) <br>
+
+- Information Systems Specialization by University of Minnesota <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o IS/IT Governance <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o Analysis for Business Systems <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o Enterprise Systems <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;o IT Infrastructure and Emerging Trends <br>
+
+- Generative AI with Large Language Models by DeepLearning.AI <br>
+
+- Getting Started with SAS Programming – online course authorized by SAS <br>
+
+- Doing More with SAS Programming – online course authorized by SAS

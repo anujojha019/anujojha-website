@@ -1,0 +1,31 @@
+---
+title: "Publications"
+format:
+  html:
+    toc: false   # disables TOC sidebar for this page only
+---
+
+::: {.hero-right}
+## 2025
+
+Schneider, G. W., Fairclough, J., Bhoite, P., Ojha, A., Hey, M. T., Shaffiey, S., ... & Hey, M. (2025). The Risk of Catastrophic Surgical Expenditure Within a Community-Based Primary and Preventive Care Program at a Florida Medical School: A Modeling Study. Cureus, 17(9). [10.7759/cureus.93545](https://www.cureus.com/articles/351186-the-risk-of-catastrophic-surgical-expenditure-within-a-community-based-primary-and-preventive-care-program-at-a-florida-medical-school-a-modeling-study#!/)
+
+Ojha, A., Zhao, S. J., Akpunonu, B., Zhang, J. T., Simo, K. A., & Liu, J. Y. (2025). Gap-App: A sex-distinct AI-based predictor for pancreatic ductal adenocarcinoma survival as a web application open to patients and physicians. Cancer Letters, 622, 217689. [https://doi.org/10.1016/j.canlet.2025.217689](https://www.sciencedirect.com/science/article/pii/S0304383525002551?via%3Dihub)
+
+## 2024
+
+Dong, Z., Ojha, A., Barlow, L., Luo, L., Liu, J. Y., & Zhang, J. T. (2024). The eIF3a translational control axis in the Wnt/β-catenin signaling pathway and colon tumorigenesis. Cancer letters, 605, 217303. [https://doi.org/10.1016/j.canlet.2024.217303](https://www.sciencedirect.com/science/article/pii/S0304383524006980)
+
+Mayhew, M., Denton, A., Kenney, A., Fairclough, J., Ojha, A., Bhoite, P., ... & Schneider, G. W. (2024). Social deprivation, the Area Deprivation Index, and emergency department utilization within a community-based primary and preventive care program at a Florida medical school. Journal of Public Health, 32(5), 827-835. [https://doi.org/10.1007/s10389-023-01871-y](https://link.springer.com/article/10.1007/s10389-023-01871-y)
+
+## 2023
+
+Ojha, A. (2023). An introduction to electromyography signal processing and machine learning for pattern recognition: a brief overview. Extensive Reviews, 3(1), 24-37. [https://doi.org/10.21467/exr.3.1.8382](https://journals.aijr.org/index.php/exr/article/view/8382)
+
+Ojha, A., Alderink, G., & Rhodes, S. (2023). Coherence between electromyographic signals of anterior tibialis, soleus, and gastrocnemius during standing balance tasks. Frontiers in Human Neuroscience, 17, 1042758. [https://doi.org/10.3389/fnhum.2023.1042758](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2023.1042758/full)
+
+## 2018
+
+Ojha, A. (2018). Analysis of Coherence between Electromyographic (EMG) signals to Examine Neural Correlations in Muscular Activation during Standing Balance Tasks: A Pilot Study. [https://scholarworks.gvsu.edu/gradprojects/233/](https://scholarworks.gvsu.edu/gradprojects/233/)
+
+:::

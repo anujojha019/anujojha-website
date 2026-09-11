@@ -1,8 +1,14 @@
 # Professional Experience
 
+### Data Analyst III  
+**Florida International University – Herbert Wertheim College of Medicine, Miami, FL**  
+*June 2026 – Present*
+
+---
+
 ### Graduate Research Assistant  
 **University of Toledo, Toledo, OH**  
-*Aug 2022 – Present*
+*Aug 2022 – May 2026*
 
 - Developed machine learning and statistical models for cancer survival prediction using RNA-seq and multi-omics datasets  
 - Conducted statistical analysis using R, Python, and SQL to extract insights from large-scale biomedical datasets  

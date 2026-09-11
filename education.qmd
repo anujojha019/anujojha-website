@@ -2,7 +2,7 @@
 
 ### Ph.D. Biomedical Engineering
 University of Toledo <br> 
-2022 – Present <br> 
+2022 – 2026 <br> 
 
 _Dissertation:_ Interpretable Machine Learning Models for Predicting Cancer Survival
 

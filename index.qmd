@@ -12,6 +12,8 @@
 [📄 CV](files/CV.pdf){.btn-primary target="_blank"}  
 [💼 LinkedIn](https://www.linkedin.com/in/anujojha7){.btn-outline target="_blank"}  
 [📚 Google Scholar](https://scholar.google.com/citations?user=Y2gF9nEAAAAJ&hl=en){.btn-outline target="_blank"}
+[📄 ORCID](https://orcid.org/0000-0001-6195-4703){.btn-outline target="_blank"}
+
 :::
 
 ::: {.hero-right}
